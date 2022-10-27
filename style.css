@@ -1,0 +1,18 @@
+.green{
+background-color: green;
+padding: 0.5em;
+display: none;
+}
+
+.red{
+background-color: red;
+padding: 0.5em;
+display: none;
+}
+
+.gameover{
+background-color: black;
+color:red;
+padding: 0.5em;
+display: none;
+}
